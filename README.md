@@ -1,6 +1,10 @@
 # capturePhoto-rs
 
-This module will show a demo of how to take a photo using the built in camera.
+This module will show a demo of how to take a photo using the built in camera. The goal is to write a module that will take pictures
+and send them to an attcker's IP.
+
+WARNING!! DOES NOT WORK (yet) STILL UNDER DEVELOPMENT. Throws up the error: Os {code: -2147483634, kind: Uncategorized, message: "A method was called at an unexpected time." }
+
 
 The documentation from Microsoft (C# based) states the following;
 		
