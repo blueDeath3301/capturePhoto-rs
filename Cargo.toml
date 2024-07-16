@@ -14,7 +14,7 @@ version = "0.58.0"
 features = [
     "Media_Capture",
     "Storage",
-    "Win32_System_Com"
+    "Win32_System_Com",
 
     "Win32_Foundation",
     "Media_MediaProperties",
