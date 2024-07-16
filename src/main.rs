@@ -5,6 +5,8 @@ using Windows-rs crate to interact with the Windows API.
  */
 
 
+pub mod main2;
+
 use windows::{
     Foundation::{IAsyncOperation, Size},
     Media::Capture::{CameraCaptureUI, CameraCaptureUIPhotoFormat, CameraCaptureUIMode},
